@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m Christian Metz
+- 🌱 I’m working since 1998 as web developer
+
 <!--
 **ChrisOMetz/ChrisOMetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![My github stats](https://github-readme-stats.vercel.app/api?username=ChrisOMetz&show_icons=true)
