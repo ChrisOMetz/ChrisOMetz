@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is my *personal* account. This is a reflection of work I am doing in my personal time. This account is NOT used for professional activity.
+
 - 🔭 I’m Christian Metz
 - 🌱 I’m working since 1998 as web developer
 
